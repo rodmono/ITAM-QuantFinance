@@ -12,9 +12,10 @@ Tutoriales y videos interesantes:
   
   * Basico del lenguaje: https://docs.python.org/3/tutorial/
   
-Python y Finanzas (Libros):
+Python y Finanzas (Libros y Recursos):
   
   * Wiley:    https://www.wiley.com/en-us/Financial+Modelling+in+Python+-p-9780470747896
   
   * O'Reilly: http://shop.oreilly.com/product/0636920032441.do
 
+  * Notebook: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
